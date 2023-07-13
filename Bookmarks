@@ -1,0 +1,166 @@
+{
+   "checksum": "2ed989c765902eaaa36539822d02f053",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13317244127810792",
+            "date_last_used": "13333583416700604",
+            "guid": "113cae3c-bd52-461d-9745-1c5c3c058304",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ChatGPT",
+            "type": "url",
+            "url": "https://chat.openai.com/chat"
+         }, {
+            "date_added": "13328730427387478",
+            "date_last_used": "13331924709439535",
+            "guid": "fb29d8e8-58e1-4ad7-8107-d2c721ffb9a8",
+            "id": "82",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Bard",
+            "type": "url",
+            "url": "https://bard.google.com/?hl=en"
+         }, {
+            "date_added": "13326657070181905",
+            "date_last_used": "13333131928635224",
+            "guid": "759539ed-e9cb-4132-9140-4ae5efbf2ded",
+            "id": "75",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Jira",
+            "type": "url",
+            "url": "https://boilercoffe.atlassian.net/jira/projects"
+         }, {
+            "date_added": "13312824382681477",
+            "date_last_used": "13333585661287546",
+            "guid": "d106f5cb-dcb2-4348-a3a5-2e602dd5d22e",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13321139069359403",
+            "date_last_used": "13333583447190209",
+            "guid": "22f2bec3-baba-4822-9b3a-12524b47283f",
+            "id": "46",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13328731327111252",
+            "date_last_used": "13331760476905974",
+            "guid": "448e17a2-1632-478f-8dba-8bcdb415eb06",
+            "id": "83",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Adobe Firefly (Beta)",
+            "type": "url",
+            "url": "https://firefly.adobe.com/generate/images"
+         }, {
+            "date_added": "13327944227326735",
+            "date_last_used": "13329664996868638",
+            "guid": "f44e3cad-36f6-4d84-8892-c9807fb66099",
+            "id": "79",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Phind: AI search engine",
+            "type": "url",
+            "url": "https://www.phind.com/"
+         }, {
+            "date_added": "13321126977056386",
+            "date_last_used": "13333131818857543",
+            "guid": "fe5705af-eb5f-415d-8746-bb34582d7716",
+            "id": "43",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Spline",
+            "type": "url",
+            "url": "https://app.spline.design/home"
+         }, {
+            "children": [ {
+               "date_added": "13321127067531559",
+               "date_last_used": "13326322505016390",
+               "guid": "86a73ab4-0b69-4606-824a-14a62ebd0e8f",
+               "id": "45",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Dribbble",
+               "type": "url",
+               "url": "https://dribbble.com/"
+            }, {
+               "date_added": "13326656091661266",
+               "date_last_used": "0",
+               "guid": "e77a24b7-ce8e-4058-8d78-7eb243d6cad0",
+               "id": "74",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "behance",
+               "type": "url",
+               "url": "https://www.behance.net/search/projects?search=Web+%26+UI+UX+Design&tracking_source=typeahead_nav_direct"
+            }, {
+               "date_added": "13321126980017628",
+               "date_last_used": "13326311446569364",
+               "guid": "d8fb0c92-c6bc-432d-9a9a-bb10519d1c70",
+               "id": "44",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "figma",
+               "type": "url",
+               "url": "https://www.figma.com/files/recent?fuid=1208458118591796418"
+            } ],
+            "date_added": "13326655986185663",
+            "date_last_used": "0",
+            "date_modified": "13333585908473795",
+            "guid": "0dc6cef0-6bb9-46df-b115-d2afe4a077de",
+            "id": "73",
+            "name": "Design",
+            "type": "folder"
+         } ],
+         "date_added": "13312820917588946",
+         "date_last_used": "0",
+         "date_modified": "13333585909935461",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13312820917588948",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13312820917588949",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

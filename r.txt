@@ -1,0 +1,18 @@
+kitty
+rofi
+polybar
+tldr
+vim
+chromium
+lxappearance
+pavucontrol
+nautilus
+discord
+slack
+virt-manager && qemu
+python
+nvm
+jdk
+vscode
+jetbrains toolbox
+nordvpn
