@@ -6,3 +6,4 @@ jetbrains toolbox
 nordvpn
 omf
 jetbrains nerd font
+nala
